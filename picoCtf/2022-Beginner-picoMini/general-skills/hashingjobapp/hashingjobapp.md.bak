@@ -6,7 +6,7 @@ nc saturn.picoctf.net 64710
 ## Solution
 For this challenge we are given the command nc saturn.picoctf.net 64710, open the picoCTF Webshell and enter in the command. 
 Entering the command yields "Please md5 hash the text between quotes, excluding the quotes: 'a cheap motel'". We are asked to
-MD5 Hash the text inbetween the quotes. Use an online tool such as this [md5 hash generator](https://www.md5hashgenerator.com/). Enter in Katharine Hepburn and press Generate.
+MD5 Hash the text inbetween the quotes. Use an online tool such as this [md5 hash generator]. Enter in Katharine Hepburn and press Generate.
 Copy the MD5 Hash (d51908671c7603ec46c7379887509894) and paste it into the Webshell. This will yield: <br/>
 <br/>
 Correct. <br/>
