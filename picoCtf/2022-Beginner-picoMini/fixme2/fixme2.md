@@ -4,7 +4,7 @@ Fix the syntax error in the Python script to print the flag.
 
 In this challenge we are given a Python script, lets start by opening the script in an IDE.
 
-![](https://imgur.com/a/CMxk1BP)
+![alt text](https://imgur.com/a/CMxk1BP)
 
 We are looking for a syntax error and on line 22 we find a syntax error. In this case, if flag = "": we can see that in an if statement equals is represented by == instead of the singular =. 
 
