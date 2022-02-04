@@ -3,7 +3,7 @@ Fix the syntax error in the Python script to print the flag.
 
 In this challenge we are given a Python script, lets start by opening the script in an IDE.
 
-![alt text](https://i.imgur.com/1Ea1MxA.png)
+![line22](https://i.imgur.com/DAkQTv1.png)
 
 We are looking for a syntax error and on line 22 we find a syntax error. In this case, if flag = "": we can see that in an if statement equals is represented by == instead of the singular =. 
 
