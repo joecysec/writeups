@@ -14,7 +14,7 @@ We are looking for a syntax error and on line 22 we find a syntax error. In this
 The solution is if flag == "":
 
 Now all that is left to is run the script to capture the flag:
-<<<<<<< HEAD
+
 ## Flag
 ```
 picoCTF{3qu4l1ty_n0t_4551gnm3nt_b4d595d9}
